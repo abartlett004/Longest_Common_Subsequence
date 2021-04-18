@@ -1,0 +1,3 @@
+S1 = ATCTGAT
+S2 = TGCATA
+
